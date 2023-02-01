@@ -1,4 +1,17 @@
-//Version 1 or Part 1
+
+
+
+// ********************************************************* 
+// Course: TCP1101 PROGRAMMING FUNDAMENTALS 
+// Year: Trimester 1, 2022/23 (T2215) 
+// Lab: TT4L 
+// Names: MUHAMMAD ZAHIN ADRI | WONG WEI HAN | ALIPH RAIHAN
+// IDs: 1211101234 | 1211101999| 1211101179
+// Emails: 1211101234@student.mmu.edu.my | 1211101999@student.mmu.edu.my | 1211101179@student.mmu.edu.my
+// Phones: 011-63850145 | 011-31498987 | 012-5480403
+// ********************************************************* 
+
+
 #include <iostream>
 #include <vector>
 #include <string>
@@ -143,6 +156,7 @@ string uppercase(const string& word)
 //the main menu
 int mainmenu()
 {
+    system("cls");
     cout << " ------------------------ " << endl;
     cout << " = Welcome to the game! = " << endl;
     cout << " -------------------------" << endl << endl;
@@ -162,11 +176,15 @@ int mainmenu()
     }
     else if (option == "LOAD") //soon to add
     {
-        cout << "Under maintenance, please come back later ";
+        cout << "Under maintenance, please come back later " << endl;
+        system("pause");
+        mainmenu();
     }
     else if (option == "SETTINGS") //soon to add
     {
-        cout << "Under maintenance, please come back later ";
+        cout << "Under maintenance, please come back later " <<endl;
+        system("pause");
+        mainmenu();
     }
     else if (option == "QUIT")
     {
