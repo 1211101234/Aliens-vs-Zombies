@@ -38,7 +38,7 @@ Please DO NOT change the Progress Log below. Leave it as it is.
 ## Contributors
 
 Please replace the following with your group members' names. 
-GROUP 8 TT4L
+-GROUP 8 TT4L
 - MUHAMMAD ZAHIN ADRI 
 - ALIPH RAIHAN
 - WONG WEI HAN
