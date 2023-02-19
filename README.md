@@ -15,7 +15,7 @@ Provide instructions on how to compile your program, especially when it is non-t
 
 
 ```
-g++ part1.cpp 
+g++ part2.cpp 
 ```
 
 ## User Manual
