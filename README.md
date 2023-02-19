@@ -22,11 +22,7 @@ g++ part2.cpp
 
 Please provide the user manual on how to use your program.
 
-Users are greeted with an "UI" 
-There are 4 choices but "Load" and "Settings" are under maintenance
-When players "Start" the game, player is greeted with the board and instructions to move (w,a,s,d)
-Players can insert multiple movement input such as (w,w,w,w,w) to move upwards by 5 units
-When players enter "q", it will end the game.
+Users are greeted with an "UI" There are 4 choices but "Load" and "Settings" are not working as intended. When players "Start" the game, player is greeted with the board and instructions to move (w,a,s,d) Players insert movement input such as (w) to move upwards till it hits a "rock". When players enter "q", it will end the game. When players enter "e", it will save the game.
 
 Please DO NOT change the Progress Log below. Leave it as it is.
 
